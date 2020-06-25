@@ -1,0 +1,29 @@
+h1{
+ color: #dc143c;
+ border: double;
+  border:#9400d3;
+  border: 9px;
+  text-decoration-line: overline;
+  text-decoration-style: wavy;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  font-variant: small-caps;
+}
+*{
+  align-items: center;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: double;
+  border:#9400d3;
+  border: 9px;
+}
+h2{
+  color: #6495ed;
+  text-shadow: #dc143c;
+  text-shadow: 33px;
+  border: double;
+  border:#9400d3;
+  border: 9px;
+  text-decoration: #ff00ff;
+  text-decoration-style: inherit;
+}
